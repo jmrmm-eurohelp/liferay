@@ -1,0 +1,4 @@
+Bundle-Name: Contacts
+Bundle-SymbolicName: com.contacts
+Bundle-Version: 1.0.0
+Export-Package: com.contacts.constants
